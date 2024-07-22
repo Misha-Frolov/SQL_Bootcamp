@@ -1,4 +1,4 @@
-#SQL Bootcamp
+# SQL Bootcamp
 
 My first steps in SQL.
 Project completion date: 06.2024.
@@ -11,7 +11,7 @@ The logical view of the database model looked like this:
 ![schema](materials/schema.png)
 
 
-##Project topics:
+## Project topics:
 
 - Day00 - how relational model works and how to get needed data based on basic constructions of SQL
 - Day01 - how to get needed data based on sets constructions and simple JOINs
